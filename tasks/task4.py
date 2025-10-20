@@ -2,7 +2,8 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    ladno = input()
+    print (ladno * 3)
     
 
 
